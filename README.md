@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository.
 <br>
-author - komalkatherine
+author - komalkatherine (apna college)
